@@ -54,6 +54,6 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShrinath&theme=blue-green&hide_border=true&layout=compact" align="left" style="width: 70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShrinath&theme=blue-green&hide_border=true&layout=compact" align="left" style="width: 78%" />
 
 </td></tr></table>  
